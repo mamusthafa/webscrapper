@@ -1,3 +1,6 @@
+#First download BeautifulSoup and Requests library
+#pip install BeautifulSoup
+#pip install Requests
 from bs4 import BeautifulSoup
 import requests
 import bs4
